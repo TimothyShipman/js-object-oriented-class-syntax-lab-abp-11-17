@@ -19,5 +19,6 @@ class BoardMember{
 
 
 class Ceo extends BoardMember{
-  ceo.hireEmployee(){return `Welcome aboard!`}
+  ceo.hireEmployee(){return `Welcome aboard!`
+  }
 }
