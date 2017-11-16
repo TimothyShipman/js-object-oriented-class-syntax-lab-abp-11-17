@@ -16,8 +16,7 @@ class BoardMember{
   }
 }
 
-let polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law")
-polished.sayHi()
+
 
 class Ceo extends BoardMember{
   ceo.hireEmployee(){return `Welcome aboard!`}
