@@ -16,4 +16,4 @@ class BoardMember{
   }
 }
 
-polishedBoardMember.sayHi("Mr. Polished", "New York", "law")
+polishedBoardMember.sayHi()
