@@ -16,4 +16,4 @@ class BoardMember{
   }
 }
 
-let polishedBoardMember.sayHi("Mr. Polished", "New York", "law")
+polishedBoardMember.sayHi("Mr. Polished", "New York", "law")
