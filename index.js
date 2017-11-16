@@ -16,4 +16,4 @@ class BoardMember{
   }
 }
 
-let polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law")
+polishedBoardMember.sayHi("Mr. Polished", "New York", "law")
